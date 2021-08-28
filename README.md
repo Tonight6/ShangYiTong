@@ -49,9 +49,11 @@
 ### Git：代码管理工具
 
 # 业务流程
+![尚医通业务流程](https://user-images.githubusercontent.com/72328455/131209635-50cb4c7f-da0b-472f-a87d-34a845b9eb66.png)
 
-![](D:\ShangYiTong\医疗项目--尚医通\笔记\04-尚医通业务流程图\尚医通业务流程.png)
 
 # 服务架构
 
-![](D:\ShangYiTong\医疗项目--尚医通\笔记\03-尚医通架构图\尚医通架构图.png)
+![尚医通架构图](https://user-images.githubusercontent.com/72328455/131209634-0f07512c-e1c6-4adb-afcb-e0ed42842d66.png)
+
+
